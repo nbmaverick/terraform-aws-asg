@@ -3,7 +3,7 @@
 ### Please copy paste below code
 ```
 module asg {
-    source = "../"
+    source = "nbmaverick/terraform-aws-asg/aws"
     region        = "eu-west-1"
     name_prefix   = "foobarnurrrrrrrrr1524"
     image_id      = "ami-07be51e3c6d5f61d2"

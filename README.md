@@ -9,7 +9,6 @@ module asg {
     image_id      = "ami-07be51e3c6d5f61d2"
     instance_type = "t2.micro"
     subnets = ["subnet-0f986fe87a8b940a0"]
-    availability_zones = ["eu-west-1a"]
     desired_capacity   = 1
     max_size           = 99
     min_size           = 1
